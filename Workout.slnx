@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Workout.AuditLogs/Workout.AuditLogs.csproj" />
+    <Project Path="src/Workout.Console/Workout.Console.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Workout.AuditLogs.Tests/Workout.AuditLogs.Tests.csproj" />
+  </Folder>
+</Solution>
